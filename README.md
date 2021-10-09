@@ -1,2 +1,2 @@
 # CPP
-All of our projects in C++
+All of our projects coded in C++
